@@ -1,0 +1,15 @@
+main: me.SciencePie.XToolz.Main
+name: XToolz
+version: X1
+author: SciencePie
+commands:
+  gp:
+  giveadmin:
+  amsg:
+  taa:
+  warn:
+  elevate:
+  gcube:
+  gsh:
+  egcube:
+  announce:
