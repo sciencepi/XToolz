@@ -41,6 +41,7 @@ Similar to `/gcube`, `/egcube` erases a cube in the X, Y and Z directions. Also 
 This command is highly experimental, and creates a GUI onscreen. So far, this command does nothing.
 
 `/announce <colour(0-6)> <timeout> <message>`
+
 The `/announce` command is relatively easy to use. Set a colour, a timeout (in ticks) and a message to display, and the command handles all the rest. It simply creates a
 bossbar with an announcement written on it. The bossbar's health or `progress` is used to show how much time is left before it disappears. This command can only be issued by
 moderators.
